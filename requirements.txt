@@ -1,6 +1,6 @@
 werkzeug==0.16.0
 tensorflow==2.5.0
-opencv_python== 4.5.2.36
+opencv_python==3.4.0.14
 Pillow==7.2.0
 gunicorn>=19.9.0
 flask==1.0.1
