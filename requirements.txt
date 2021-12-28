@@ -4,4 +4,4 @@ opencv_python== 4.5.2.54
 Pillow==7.2.0
 gunicorn>=19.9.0
 flask==2.0.2
-numpy==1.21.2
+numpy~=1.19.2
